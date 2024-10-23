@@ -28,7 +28,7 @@ new GuiButton(id, posX, posY, text)
 | `visible` | `boolean` | If the button is visible or not. |`true` |
 | `height` | `integer` | Height of the button, in Minecraft unit. |`20` |
 | `width` | `integer` | Height of the button, in Minecraft unit. |`200` |
-| `onClick` | `function` | Defines what to do on button click. Has the button class as first parameter.|`200` |
+| `onClick` | `function` | Defines what to do on button click. Has the button class as first parameter.| |
 
 **Functions:**
 
